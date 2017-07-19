@@ -1,0 +1,111 @@
+
+/* Center the main header */
+
+#centeredHeading 
+{ 
+    text-align: center;  
+}  
+
+/* Change text colors to red, blue, and green */
+.red 
+{
+    color: red;
+}
+
+.blue 
+{
+    color: blue;
+}
+
+.green 
+{
+    color: green;
+}
+
+/* Make text big and small */
+
+#bigText 
+{
+    font-size: 35px;
+}
+
+#smallText 
+{ 
+    font-size: 8px;  
+}
+
+/* Center the text */
+
+.centered-text 
+{ 
+    text-align: center;
+    background-color: white;
+    border-style: solid;
+    border-width: 5px;
+    border-color: black; 
+}
+
+/* Bold the text */
+
+#boldText 
+{ 
+    font-weight: bold;  
+}
+
+/* Change text font */
+
+#fontText 
+{ 
+    font-family: tahoma;  
+}
+
+/* Change font type, font size, and font color */
+
+#multiAttributeText 
+{ 
+    font-family: tahoma;
+    font-size: 35px;
+    color: orange;
+}
+
+/* Change font type and font color for a class */
+
+.styledFont
+{
+    font-family: tahoma;
+    color: black;
+    text-align: center;
+}
+
+/* Add orange border with width 5 to the image */
+
+#styledImage
+{ 
+    border-style: solid;
+    border-width: 5px;
+    border-color: orange;
+}
+
+
+.background
+{
+    background-image: url("shipyard.jpg");
+   
+}
+.img-responsive
+{
+    display: block;
+    margin: 0 auto;
+    border-style: solid;
+    border-width: 5px;
+    border-color: black;
+    
+}
+
+
+
+
+
+
+
+
