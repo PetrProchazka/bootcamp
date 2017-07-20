@@ -1,0 +1,76 @@
+
+body
+{
+margin: 0;
+padding: 0;
+font-family: Georgia;
+font-size: 20px;
+line-height: 150%;
+}
+
+h2 {
+  font-size: 30px;
+}
+
+a {
+  color: #d21034;
+}
+
+.centered-div
+{
+    border: 5px solid gray;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+    background-color: blue;
+    text-align: left;
+    padding: 8px;
+    color: white;
+}
+
+
+#background
+{
+	background-image: url("shipyard.jpg");
+	
+}
+
+.centered-text
+{
+	text-align: center;
+	color: white;
+}
+
+.container
+{
+
+}
+
+#main-bio
+{
+	text-align: center;
+	color: black;
+}
+
+#img-responsive
+{
+    display: block;
+    margin: auto;
+    border: 5px solid white;
+    
+}
+
+
+
+#contact
+{
+	border: 5px solid gray;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+    background-color: blue;
+    text-align: left;
+    padding: 8px;
+    color: white;
+}
+
